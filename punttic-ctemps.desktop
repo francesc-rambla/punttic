@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Control de sessió del PuntTIC
+Comment=Eina de control de la durada de la sessió al PuntTIC
+Exec=/opt/punttic/bin/punttic-ctemps.sh
+Icon=/opt/punttic/images/punttic.png
+Terminal=false
